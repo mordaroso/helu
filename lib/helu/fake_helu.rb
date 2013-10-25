@@ -27,7 +27,7 @@ class FakeHelu
     winning.call(fake_transaction)
   end
 
-  private 
+  private
 
   def fake_transaction
     ""
